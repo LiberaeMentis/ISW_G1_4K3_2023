@@ -20,7 +20,7 @@ Repositorio de Ingeniería y Calidad de Software, para el Grupo 1 del curso 4K3 
 | Bibliografía                     | Biblio_\<N>_\<NombreBiblio>.pdf    | /Materiales de Clase/Bibliografia | Conceptual | 
 | Filminas          | PPT\<N>_\<Tema>.pdf            | /Materiales de Clase/Parciales/Parcial\<N>/Filminas        | Conceptual    |
 | Notas de Clase | NC\<N>_\<Tema>_\<Fecha>.pdf | /Materiales de Clase/Parciales/Parcial\<N>/Notas de Clase/ | Conceptual
-| Guías | Guía_\<Descripción> | /Materiales de Clase/Guias/ | De Aplicación
+| Guías | Guía_\<Descripción>.pdf | /Materiales de Clase/Guias/ | De Aplicación
 | Trabajos Prácticos Enunciado |  TP\<N>_/<Tema>_Enunciado_2023.pdf | /Trabajos Prácticos/TP\<N>/ | De Aplicación |
 | Trabajos Prácticos Resolución |  TP\<N>_/<Tema>_RES_G1_2023.\<ext> | /Trabajos Prácticos/TP\<N>/ | De Aplicación |
 | User Story                       | TP\<N>_US_\<NombreUS>.jpg     | /Trabajos Prácticos/TP\<N>/ | De Aplicación |
