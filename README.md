@@ -10,7 +10,7 @@ Repositorio de Ingeniería y Calidad de Software, para el Grupo 1 del curso 4K3 
 | Pregal, Santiago | 81838 |
 | Ricapito, Juan Pablo | 85381 |
 | Urzagasti Molina, Víctor Nicolas | 86007 |
-| Vega, María Sol | 85536 |
+| Vega, María Sol | 85526 |
 
 ## Listado de Ítems de Configuración
 
