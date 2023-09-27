@@ -12,6 +12,29 @@ Repositorio de Ingeniería y Calidad de Software, para el Grupo 1 del curso 4K3 
 | Urzagasti Molina, Víctor Nicolas | 86007 |
 | Vega, María Sol | 85526 |
 
+## Estructura del Repositorio
+- ISW_G1_4K3_2023
+  - Materiales de Clase
+    - Bibliografia
+    - Guias
+    - Parciales
+      - Parcial 1
+        - Filminas
+        - Notas de Clase
+      - Parcial 2
+        - Filminas
+        - Notas de Clase
+  - Presentaciones Teéricas
+    - Charla TED
+    - Poster Cientifico
+  - Trabajos Practicos
+    - TP1
+    - TP2
+    - TPN
+      - Consultas
+      - Código Fuente
+
+
 ## Listado de Ítems de Configuración
 
 | Nombre del Ítem de Configuración | Regla de Nombrado       | Ubicación Física | Tipo de Ítem  |
@@ -38,7 +61,7 @@ Repositorio de Ingeniería y Calidad de Software, para el Grupo 1 del curso 4K3 
 | \<Año> | Año de emisión del plan |
 | \<NombreBiblio>  | Título de la bibliografía |
 | \<NombreClase> | Nombre de la clase o componente, según la convención de Angular (un componente tiene su .html .css y .ts con el mismo nombreClase) |
-| \<Fecha> | Fecha en el formato dd-mm-aaaa en la que fue tomada la nota |
+| \<Fecha> | Fecha en el formato dd-mm-aaaa en el que fue tomado el elemento |
 
 ## Criterio de Línea Base
 La línea base se definirá al final de cada Trabajo Práctico evaluado y luego de cada parcial evaluativo.
