@@ -38,7 +38,7 @@ Repositorio de Ingeniería y Calidad de Software, para el Grupo 1 del curso 4K3 
 | \<Año> | Año de emisión del plan |
 | \<NombreBiblio>  | Título de la bibliografía |
 | \<NombreClase> | Nombre de la clase o componente, según la convención de Angular (un componente tiene su .html .css y .ts con el mismo nombreClase) |
-| \<Fecha> | Nombre de la Línea Base. Se indica el tipo de línea base: Entrega de Trabajo Práctico o Final de Parcial |
+| \<Fecha> | Fecha en el formato dd-mm-aaaa en la que fue tomada la nota |
 
 ## Criterio de Línea Base
 La línea base se definirá al final de cada Trabajo Práctico evaluado y luego de cada parcial evaluativo.
