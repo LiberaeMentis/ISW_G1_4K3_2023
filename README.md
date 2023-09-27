@@ -68,4 +68,4 @@ La línea base se definirá al final de cada Trabajo Práctico evaluado y luego 
 
 Este criterio está basado en que las entregas de los Trabajos prácticos constituyen un marco de referencia sólido, estable y revisado del progreso de la materia.
 
-La línea base estará en la rama main marcada con un tag \<NombreLB>\<NN> en el repositorio.
+La línea base estará en la rama main marcada con un tag \<NombreLB>_\<NN> en el repositorio. Nombre representa la instancia en la que se trabaja nuestra línea base, y NN es la versión de la línea base.
