@@ -1,0 +1,23 @@
+<div class="spinner" *ngIf="loading || confirmado" [ngClass]="{confirmacion:confirmado}">
+    <div class="spinner__container" *ngIf="loading">
+        <div class="la-ball-atom">
+            <img src="assets/hamburguesa-completa.png">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+        <p class="spinner__title ">Terminando de Confirmar Pedido</p>
+    </div>
+    <div class="spinner__container" *ngIf="confirmado">
+        <div class="circle-bigbox">
+            <div class="circle-box">
+                <div class="circle csize csize-0 pulse-circle" style="animation-delay: 0.3s;"></div>
+                <div class="circle csize csize-1  pulse-circle" style="animation-delay: 0.6s;"></div>
+                <div class="circle csize csize-2  pulse-circle" style="animation-delay: 0.9s;"></div>
+                <img class=" circle csize csize-3 pulse-circle " src="assets/si.png" style="animation-delay: 1.2s;">
+            </div>
+            <p class="spinner__title fade-in">Pedido Confirmado</p>
+            <button class="btn-white" (click)="Volver()"> Volver a Inicio</button>
+        </div>
+
+    </div>

@@ -1,0 +1,52 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+ font-family: 'Montserrat' !important;
+  margin: 0;
+  padding: 0;
+}
+
+@mixin respond($breakpoint) {
+  @if $breakpoint ==phone {
+    @media (max-width: 37.5em) {
+      @content;
+    }
+  }
+
+  @if $breakpoint ==tab-port {
+    @media (max-width: 56.25em) {
+      @content;
+    }
+  }
+
+  @if $breakpoint ==tab-land {
+    @media (max-width: 75em) {
+      @content;
+    }
+  }
+
+  @if $breakpoint ==big-desktop {
+    @media (min-width: 112.5em) {
+      @content;
+    }
+  }
+}
+body{
+ min-height: 100vh;
+}
+.hamburguesas {
+  position: relative;
+  &::before {
+    background-image: url("/assets/hamburguesa.png");
+    background-size: 100px;
+    opacity: 0.1;
+    background-repeat: repeat;
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+}
+
