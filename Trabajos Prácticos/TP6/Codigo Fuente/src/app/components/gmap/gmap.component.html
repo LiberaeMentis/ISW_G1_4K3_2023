@@ -1,0 +1,6 @@
+<div *ngIf="apiLoaded | async">
+    <google-map class="gmaps"
+    [zoom]="zoom" [center]="center" (mapClick)="addMarker($event)">
+        <map-marker *ngIf="this.markerPosition" [position]="markerPosition" [options]="markerOptions"></map-marker>
+    </google-map>
+</div>

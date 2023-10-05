@@ -1,0 +1,9 @@
+@import "../../../styles.scss";
+.gmaps {
+    height:200px;
+    width:750px;
+    @include respond(tab-port){
+        width:250px;
+        height: 300px;
+    }
+}
