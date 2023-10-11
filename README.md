@@ -44,9 +44,9 @@ Repositorio de Ingeniería y Calidad de Software, para el Grupo 1 del curso 4K3 
 | Filminas          | PPT\<N>_\<Tema>.pdf            | /Materiales de Clase/Parciales/Parcial\<N>/Filminas        | Conceptual    |
 | Notas de Clase | NC\<N>_\<Tema>_\<Fecha>.pdf | /Materiales de Clase/Parciales/Parcial\<N>/Notas de Clase/ | Conceptual
 | Guías | Guía_\<Descripción>.pdf | /Materiales de Clase/Guias/ | De Aplicación
-| Trabajos Prácticos Enunciado |  TP\<N>_/<Tema>_Enunciado_2023.pdf | /Trabajos Prácticos/TP\<N>/ | De Aplicación |
+| Trabajos Prácticos Enunciado |  TP\<N>_Enunciado_2023.pdf | /Trabajos Prácticos/TP\<N>/ | De Aplicación |
 | Trabajos Prácticos Resolución |  TP\<N>_\<Tema>_RES_G1_2023.\<ext> | /Trabajos Prácticos/TP\<N>/ | De Aplicación |
-| User Story                       | TP\<N>_US_\_\<NombreUS>.jpg     | /Trabajos Prácticos/TP\<N>/ | De Aplicación |
+| User Story                       | TP\<N>_US_\<NombreUS>.jpg     | /Trabajos Prácticos/TP\<N>/ | De Aplicación |
 | Código fuente                    | \<NombreClase>.\<ext> | /Trabajos Prácticos/TP\<N>/Codigo Fuente    | De Aplicación |
 |Consulta de proyecto             | Consulta_\<Fecha>_\<Tema>.png | /Trabajos Prácticos/TP\<N>/Consultas | De Aplicacion|
 
