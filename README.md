@@ -24,7 +24,7 @@ Repositorio de Ingeniería y Calidad de Software, para el Grupo 1 del curso 4K3 
       - Parcial 2
         - Filminas
         - Notas de Clase
-  - Presentaciones Teéricas
+  - Presentaciones Teóricas
     - Charla TED
     - Poster Cientifico
   - Trabajos Practicos
